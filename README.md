@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--https://img.shields.io/badge/Mail-색상코드?style=flat-square&logo=쓰고싶은 아이콘이름&logoColor=white&link=너의링크
+https://img.shields.io/badge/C-8A2BE2
+
+https://img.shields.io/badge/Python-3776AB
+-->
